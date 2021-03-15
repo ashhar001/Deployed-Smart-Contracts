@@ -1,7 +1,5 @@
 # Deployed-Smart-Contracts
 
-# All-Web-App-Projects
-
 ## Bank Smart Contract
 ### Deployed at Address:
 0x9733c793bbD9bF8d2e2a9F124648584269853692
