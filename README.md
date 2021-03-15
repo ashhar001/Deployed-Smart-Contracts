@@ -7,3 +7,7 @@
 ## Auction Smart Contract
 ### Deployed at Address:
 0x739E81Ad938De18EdA323366D1765AA548eE02F0
+
+## Lottery Smart Contract
+### Live Link:
+https://ashhar001.github.io/lottery-react/
